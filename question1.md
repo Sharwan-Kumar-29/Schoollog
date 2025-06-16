@@ -64,8 +64,3 @@ console.log(find(['hello', 'world', 'hello', 'india', 'world']));
 ```
 
 ---
-
-## Summary:
-- Use bracket notation to dynamically access object keys using variables.
-- Ensure that assignment statements are not placed in logic branches where they override previous values unintentionally.
-- Use `else` blocks where mutually exclusive conditions are required.
